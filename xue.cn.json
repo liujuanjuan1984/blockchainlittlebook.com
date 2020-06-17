@@ -1,19 +1,26 @@
 {
-    "authors": 
-    [{
-     "name": "李笑来",
-     "bio": "终身学习者，原新东方名师，著有《把时间当作朋友》、《新生七年就是一辈子》、《TOEFL核心词汇21天突破》、《韭菜的自我修养》等多本畅销书。",
-     "avatar": "https://xue-images.pek3b.qingstor.com/author_lixiaolai.jpg",
-     "role": "origin"}],
-     "chapters": [
-        {"is_free":true, "path": "README.ipynb", "title": "0 区块链小白书"}
+    "authors": [
+        {
+            "avatar": "https://xue-images.pek3b.qingstor.com/author_lixiaolai.jpg",
+            "bio": "终身学习者，原新东方名师，著有《把时间当作朋友》、《新生七年就是一辈子》、《TOEFL核心词汇21天突破》、《韭菜的自我修养》等多本畅销书。",
+            "name": "李笑来",
+            "role": "origin"
+        }
+    ],
+    "category": "区块链",
+    "chapters": [
+        {
+            "is_free": true,
+            "path": "README.ipynb",
+            "title": "0 区块链小白书"
+        }
     ],
     "cover": "https://xue-images.pek3b.qingstor.com/cover_blockchain_littlebook.png",
-     "description": "区块链技术终于在中国获得了认可与支持。\n需要注意的是，区块链技术作为金融互联网新技术，不可避免地与投机（或投资）联系在一起，导致的结果是市场上骗局丛生，行业里鱼龙混杂，所以有必要让民众对区块链有正确且清楚的了解。\n这就是《区块链小白书》的意义 —— 它就是写给小白的，目的不仅是为了让小白少走弯路，更是为了让小白不要误入歧途。",
-     "name": "区块链小白书",
-     "publish_at": "2020-04-07T00:04:00",
-     "license": "本书由作者 李笑来 授权",
-     "category": "区块链",
-     "programming_language": "通识",
-     "toc_level": 2, 
-     "version": "0.5"}
+    "description": "区块链技术终于在中国获得了认可与支持。\n需要注意的是，区块链技术作为金融互联网新技术，不可避免地与投机（或投资）联系在一起，导致的结果是市场上骗局丛生，行业里鱼龙混杂，所以有必要让民众对区块链有正确且清楚的了解。\n这就是《区块链小白书》的意义 —— 它就是写给小白的，目的不仅是为了让小白少走弯路，更是为了让小白不要误入歧途。",
+    "license": "本书由作者 李笑来 授权",
+    "name": "区块链小白书",
+    "programming_language": "通识",
+    "publish_at": "2020-04-07T00:04:00",
+    "toc_level": 2,
+    "version": "0.5"
+}
